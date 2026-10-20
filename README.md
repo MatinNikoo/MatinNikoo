@@ -1,6 +1,6 @@
 ### Hi, I'm Matin
 
-Stats and data science at UCLA. Building Skeptic, an AI analyst that checks the math.
+Stats and data science at UCLA, headed for quant. Building Skeptic, an AI analyst that checks the math.
 
 **Things I've built**
 
